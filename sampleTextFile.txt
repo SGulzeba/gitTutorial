@@ -1,5 +1,1 @@
-This is a sample text file, text is ok
-
-[[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
-
-clear
+This is a sample file. some new code changes
